@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Mobin
 
-<!--
-**MobinMg23/MobinMg23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Industrial Management Student | Backend Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+**💻 Programming:** Python, SQL  
+**🖥 Backend:** Django, Django REST Framework  
+**⚙ DevOps & Tools:** Docker, Docker Swarm, Celery, Redis, PostgreSQL, Git  
+**📊 Monitoring:** Prometheus, Grafana, Flower  
+**🔧 Other:** CI/CD, Task Orchestration, Microservices Architecture  
+
+---
+
+## 🎯 Focus
+
+Combining **Industrial Management knowledge** with **Backend Development** and **DevOps** to build scalable, efficient systems.
