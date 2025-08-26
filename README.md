@@ -8,7 +8,7 @@
 
 **💻 Programming:** Python, SQL  
 **🖥 Backend:** Django, Django REST Framework  
-**⚙ DevOps & Tools:** Docker, Docker Swarm, Celery, Redis, PostgreSQL, Git  
+**⚙ DevOps & Tools:** Docker, Docker Swarm, Celery, Redis, MySQL, Git  
 **📊 Monitoring:** Prometheus, Grafana, Flower  
 **🔧 Other:** CI/CD, Task Orchestration, Microservices Architecture  
 
