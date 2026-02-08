@@ -6,7 +6,7 @@
 
 ## 🛠 Skills
 
-**💻 Programming:** Python, SQL  
+**💻 Programming:** Python, C#, SQL  
 **🖥 Backend:** Django, Django REST Framework  
 **⚙ DevOps & Tools:** Docker, Docker Swarm, Celery, Redis, MySQL, Git  
 **📊 Monitoring:** Prometheus, Grafana, Flower  
